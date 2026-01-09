@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/12bmWtMJnzHLQxSQ-pPG0OM
 3. Run the app:
    `npm run dev`
 # instagramist
+# instagramist
