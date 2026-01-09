@@ -85,7 +85,7 @@ const App: React.FC = () => {
           </div>
         </main>
         <footer className="text-center mt-12 text-gray-500 text-sm">
-            <p>AI-Powered by Gemini</p>
+            <p>Azamat Akramov</p>
         </footer>
       </div>
     </div>
